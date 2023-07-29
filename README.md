@@ -2,7 +2,7 @@
 
 ✨🔭 ... Soy LaraBerenice✨
 
-- 🌱 Actualmente estoy aprendiendo y 👯 Busco colaborar en Proyectos de Analisis y manejo de datos.
+- 🌱 Actualmente estoy aprendiendo y 👯 busco colaborar en Proyectos de Análisis y manejo de datos.
 
--🤔 💬 📫 Cómo contactarme: berenice.ledesma12345@gmail.com
+- 🤔 💬 📫 Cómo contactarme: berenice.ledesma12345@gmail.com
 😄 ⚡ ..
