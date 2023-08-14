@@ -1,6 +1,6 @@
 ### Hola!! 👋
 
-✨🔭 ... Soy Analista de datos LaraBerenice✨
+✨🔭 ... Soy LaraBerenice✨
 
 - 🌱 Actualmente estoy aprendiend Data enginnering 👯.. y busco colaborar en Proyectos de Análisis y manejo de datos para seguir creciendo ...
   
