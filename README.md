@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1></h1>
-    <img src="https://digital.agrishow.com.br/sites/agrishow.com/files/shutterstock_1396252643.jpg" width="800">
+    <img src="https://digital.agrishow.com.br/sites/agrishow.com/files/shutterstock_1396252643.jpg" width="1000">
 </body>
 </html>
 
