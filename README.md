@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1>Imagen de Analista de Datos en Sostenibilidad</h1>
-    <img src=r"C:\Users\beren\OneDrive\Imágenes\ññ.webp" alt="Analista de Datos en Sostenibilidad" width="100">
+    <img src="https://www.gregal.info/wp-content/uploads/porqu%C3%A9-migrar-a-MS-BUSINESS-CENTRAL..jpg" alt="Analista de Datos en Sostenibilidad" width="100">
 </body>
 </html>
 
