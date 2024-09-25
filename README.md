@@ -7,11 +7,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Imagen</title>
 </head>
 <body>
     <h1>Imagen de Analista de Datos en Sostenibilidad</h1>
-    <img src=""C:\Users\beren\OneDrive\Imágenes\DALL·E 2024-09-25 17.40.26 - A professional image featuring a confident female data analyst working in the field of sustainability and agro-environmental sectors. She is sitting a.webp"" alt="Analista de Datos en Sostenibilidad" width="500">
+    <img src="C:\Users\beren\OneDrive\Imágenes\ññ.webp" alt="Analista de Datos en Sostenibilidad" width="500">
 </body>
 </html>
 
