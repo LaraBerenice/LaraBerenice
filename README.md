@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1>Imagen de Analista de Datos en Sostenibilidad</h1>
-    <img src="C:\Users\beren\OneDrive\Imágenes\ññ.webp" alt="Analista de Datos en Sostenibilidad" width="500">
+    <img src=r"C:\Users\beren\OneDrive\Imágenes\ññ.webp" alt="Analista de Datos en Sostenibilidad" width="500">
 </body>
 </html>
 
