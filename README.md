@@ -1,6 +1,4 @@
-### Hola!! 👋
-
-✨🔭 ... Soy LaraBerenice✨
+### Hola!! 👋 ✨🔭 ... ✨
 
 <!DOCTYPE html>
 <html lang="es">
