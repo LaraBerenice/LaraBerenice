@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1>Imagen de Analista de Datos en Sostenibilidad</h1>
-    <img src="https://www.gregal.info/wp-content/uploads/porqu%C3%A9-migrar-a-MS-BUSINESS-CENTRAL..jpg" alt="Analista de Datos en Sostenibilidad" width="500">
+    <img src="https://digital.agrishow.com.br/sites/agrishow.com/files/shutterstock_1396252643.jpg" width="500">
 </body>
 </html>
 
