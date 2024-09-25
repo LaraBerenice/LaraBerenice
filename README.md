@@ -9,8 +9,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Imagen de Analista de Datos en Sostenibilidad</h1>
-    <img src="https://digital.agrishow.com.br/sites/agrishow.com/files/shutterstock_1396252643.jpg" width="500">
+    <h1></h1>
+    <img src="https://digital.agrishow.com.br/sites/agrishow.com/files/shutterstock_1396252643.jpg" width="800">
 </body>
 </html>
 
