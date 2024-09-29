@@ -13,4 +13,6 @@
 </html>
 
 
-- 🌱 Con experiencia en el uso de herramientas como Python, SQL, Power BI, Google Sheets, Excel, Docker y Airflow, transformo datos complejos en soluciones prácticas que impulsan la eficiencia operativa y el desarrollo sostenible. Mi pasión por la sostenibilidad y el impacto ambiental me impulsa a aplicar el análisis de datos para promover prácticas responsables y efectivas. Busco contribuir a iniciativas innovadoras que generen un impacto positivo en el bienestar del planeta 👯.. 😄 ⚡ ..
+- 🌱 
+
+Analista de datos especializada en sostenibilidad y optimización de procesos agroalimentarios. Con experiencia en el uso de herramientas como Python, SQL, Power BI, Google Sheets y Excel, transformo datos complejos en soluciones prácticas que impulsan la eficiencia y el desarrollo sostenible. Comprometida con el impacto ambiental, busco contribuir a iniciativas innovadoras que promuevan prácticas responsables y efectivas - 👯.. 😄 ⚡ ..
