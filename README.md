@@ -1,5 +1,4 @@
-###  ![image](https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434)
-Hola!! 👋 ✨🔭 Soy LaraBerenice...
+###  ![image](https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434) Hola!! 👋 ✨🔭 Soy LaraBerenice...
  ✨
 
 <!DOCTYPE html>
