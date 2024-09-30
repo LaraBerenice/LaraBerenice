@@ -12,4 +12,4 @@
 </html>
 
 
-- 🌱 Soy analista de datos especializada en sostenibilidad y optimización de procesos agroalimentarios con experiencia en el uso de herramientas como Python, SQL, Power BI, Google Sheets y Excel, transformo datos complejos en soluciones prácticas que impulsan la eficiencia  🌎🍃😄⚡ ..
+- 🌱 Soy analista de datos especializada en sostenibilidad y optimización de procesos agroalimentarios. Con experiencia en el uso de herramientas como Python, SQL, Power BI, Google Sheets y Excel, transformo datos complejos en soluciones prácticas que impulsan la eficiencia y el desarrollo sostenible🌎🍃😄⚡ ..
