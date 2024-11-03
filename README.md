@@ -15,7 +15,7 @@
 
 ![Nueva Imagen](https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png)
 
-<div style="margin-top: 30px;"> <!-- Ajusta el valor según sea necesario -->
+<div style="margin-top: 100px;"> <!-- Ajusta el valor según sea necesario -->
     <a href="git_hub">
         <img src="https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434" style="width: 80px; height: 80px;">
     </a>
