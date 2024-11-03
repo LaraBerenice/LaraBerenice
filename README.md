@@ -15,13 +15,30 @@
 
 ![Nueva Imagen](https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png)
 
-[![image](https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434)](git_hub)
-[![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)](ENLACE_Python) 
-[![Power BI](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000)](ENLACE_POWER_BI) 
-[![Google Sheets](https://img.icons8.com/?size=100&id=30461&format=png&color=000000)](ENLACE_GOOGLE_SHEETS) 
-[![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](ENLACE_DOCKER)
-[![Apache Airflow](https://github.com/user-attachments/assets/8ff6532e-81c5-4abc-bb0a-dea8e6cf0c79)](ENLACE_APACHE_AIRFLOW) 
-[![SQL Server](https://img.icons8.com/?size=100&id=uOsDUfEtcu5S&format=png&color=000000)](ENLACE_SQL_SERVER) 
-[![MongoDB](https://img.icons8.com/?size=100&id=o6OvAxG0nzTH&format=png&color=000000)](ENLACE_MONGODB)
+<a href="git_hub">
+    <img src="https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434" style="width: 100px; height: 100px;">
+</a>
+<a href="ENLACE_Python">
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" style="width: 100px; height: 100px;">
+</a>
+<a href="ENLACE_POWER_BI">
+    <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" style="width: 100px; height: 100px;">
+</a>
+<a href="ENLACE_GOOGLE_SHEETS">
+    <img src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000" style="width: 100px; height: 100px;">
+</a>
+<a href="ENLACE_DOCKER">
+    <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" style="width: 100px; height: 100px;">
+</a>
+<a href="ENLACE_APACHE_AIRFLOW">
+    <img src="https://github.com/user-attachments/assets/8ff6532e-81c5-4abc-bb0a-dea8e6cf0c79" style="width: 100px; height: 100px;">
+</a>
+<a href="ENLACE_SQL_SERVER">
+    <img src="https://img.icons8.com/?size=100&id=uOsDUfEtcu5S&format=png&color=000000" style="width: 100px; height: 100px;">
+</a>
+<a href="ENLACE_MONGODB">
+    <img src="https://img.icons8.com/?size=100&id=o6OvAxG0nzTH&format=png&color=000000" style="width: 100px; height: 100px;">
+</a>
+
 
 
