@@ -37,7 +37,7 @@
     <img src="https://img.icons8.com/?size=100&id=uOsDUfEtcu5S&format=png&color=000000" style="width: 100px; height: 100px;">
 </a>
 <a href="ENLACE_MONGODB">
-    <img src="https://img.icons8.com/?size=100&id=o6OvAxG0nzTH&format=png&color=000000" style="width: 100px; height: 100px;">
+    <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" style="width: 100px; height: 100px;">
 </a>
 
 
