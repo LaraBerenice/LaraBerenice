@@ -21,11 +21,17 @@
 <a href="ENLACE_Python">
     <img src="https://img.icons8.com/?size=80&id=13441&format=png&color=000000" style="width: 80px; height: 80px;">
 </a>
+<a href="ENLACE_ANACONDA">
+    <img src="https://github.com/user-attachments/assets/da3b70cd-0db3-49db-9d32-b3a42853b53f" style="width: 80px; height: 80px;">
+</a>
 <a href="ENLACE_POWER_BI">
     <img src="https://img.icons8.com/?size=80&id=qYfwpsRXEcpc&format=png&color=000000" style="width: 80px; height: 80px;">
 </a>
 <a href="ENLACE_GOOGLE_SHEETS">
     <img src="https://img.icons8.com/?size=80&id=30461&format=png&color=000000" style="width: 80px; height: 80px;">
+</a>
+<a href="ENLACE_EXCEL">
+    <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" style="width: 80px; height: 80px;">
 </a>
 <a href="ENLACE_DOCKER">
     <img src="https://img.icons8.com/?size=80&id=cdYUlRaag9G9&format=png&color=000000" style="width: 80px; height: 80px;">
@@ -39,9 +45,7 @@
 <a href="ENLACE_MONGODB">
     <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" style="width: 80px; height: 80px;">
 </a>
-<a href="ENLACE_EXCEL">
-    <img src="https://img.icons8.com/?size=80&id=79793&format=png&color=000000" style="width: 80px; height: 80px;">
-</a>
+
 
 
 
