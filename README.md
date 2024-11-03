@@ -16,8 +16,6 @@
 <div style="text-align: center;">
     <!-- Imagen principal -->
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" style="width: auto; height: auto; max-width: 100%;">
-
-    <!-- Contenedor para los íconos -->
     <div style="margin-top: 20px; display: flex; justify-content: center; flex-wrap: wrap;">
         <a href="git_hub">
             <img src="https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434" style="width: 80px; height: 80px; margin: 5px;">
