@@ -1,8 +1,11 @@
 ![image](https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434) 
 
+### 🛠 Herramientas:
+[![Power BI](URL_DE_IMAGEN_POWER_BI)](ENLACE_POWER_BI) [![Google Sheets](URL_DE_IMAGEN_GOOGLE_SHEETS)](ENLACE_GOOGLE_SHEETS) [![Docker](URL_DE_IMAGEN_DOCKER)](ENLACE_DOCKER) [![Apache Airflow](URL_DE_IMAGEN_APACHE_AIRFLOW)](ENLACE_APACHE_AIRFLOW)
+
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice ..
 
-🌱 Analista de Datos especializada en sostenibilidad y optimización de procesos agroalimentarios. Tengo un enfoque clave que me permite ofrecer consejos fundamentales, siempre basados en conocimientos actualizados y en el momento adecuado.🌱
+🌱 Analista de Datos especializada en sostenibilidad y optimización de procesos agroalimentarios. Tengo un enfoque clave que me permite ofrecer consejos fundamentales, siempre basados en conocimientos actualizados y en el momento oportuno.🌱
 
 ### 💻 COMPETENCIAS TÉCNICAS
 - **🔧 Lenguajes de Programación:** 🐍 Python, 📊 SQL
