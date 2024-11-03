@@ -2,7 +2,7 @@
 
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice ..
 
-🌱 **Analista de Datos** especializada en sostenibilidad y optimización de procesos agroalimentarios. tengo un punto de vista clave que me permite ofrecer consejos fundamentales, siempre con conocimientos actualizados en los momentos más oportunos.
+🌱 Analista de Datos especializada en sostenibilidad y optimización de procesos agroalimentarios. Tengo un enfoque clave que me permite ofrecer consejos fundamentales, siempre basados en conocimientos actualizados y en el momento adecuado.🌱
 
 ### 💻 COMPETENCIAS TÉCNICAS
 - **🔧 Lenguajes de Programación:** 🐍 Python, 📊 SQL
