@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434) 
 [![Power BI](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000)](ENLACE_POWER_BI) 
 [![Google Sheets](https://img.icons8.com/?size=100&id=30461&format=png&color=000000)](ENLACE_GOOGLE_SHEETS) 
-[![Docker](URL_DE_IMAGEN_DOCKER)](ENLACE_DOCKER) 
+[![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](ENLACE_DOCKER) 
 [![Apache Airflow](URL_DE_IMAGEN_APACHE_AIRFLOW)](ENLACE_APACHE_AIRFLOW) 
 [![SQL Server](https://img.icons8.com/?size=100&id=uOsDUfEtcu5S&format=png&color=000000)](ENLACE_SQL_SERVER) 
 [![MongoDB](URL_DE_IMAGEN_MONGODB)](ENLACE_MONGODB)
