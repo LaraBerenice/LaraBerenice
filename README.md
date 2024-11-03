@@ -4,9 +4,6 @@
 [![Docker](URL_DE_IMAGEN_DOCKER)](ENLACE_DOCKER) 
 [![Apache Airflow](URL_DE_IMAGEN_APACHE_AIRFLOW)](ENLACE_APACHE_AIRFLOW) 
 [![SQL Server](https://img.icons8.com/?size=100&id=uOsDUfEtcu5S&format=png&color=000000)](ENLACE_SQL_SERVER) 
-[![SQLite](URL_DE_IMAGEN_SQLITE)](ENLACE_SQLITE) 
-[![PostgreSQL](URL_DE_IMAGEN_POSTGRESQL)](ENLACE_POSTGRESQL) 
-[![MySQL](URL_DE_IMAGEN_MYSQL)](ENLACE_MYSQL) 
 [![MongoDB](URL_DE_IMAGEN_MONGODB)](ENLACE_MONGODB)
 
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice ..
