@@ -18,9 +18,6 @@
 <a href="git_hub">
     <img src="https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434" style="width: 100px; height: 100px;">
 </a>
-<a href="ENLACE_ANACONDA">
-    <img src="https://github.com/user-attachments/assets/509bc0ac-4459-49cf-84a3-cd86e9aa56e3" style="width: 100px; height: 100px;">
-</a>
 <a href="ENLACE_Python">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" style="width: 100px; height: 100px;">
 </a>
