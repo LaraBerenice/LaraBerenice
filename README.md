@@ -5,7 +5,7 @@
 [![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](ENLACE_DOCKER) 
 [![Apache Airflow](URL_DE_IMAGEN_APACHE_AIRFLOW)](ENLACE_APACHE_AIRFLOW) 
 [![SQL Server](https://img.icons8.com/?size=100&id=uOsDUfEtcu5S&format=png&color=000000)](ENLACE_SQL_SERVER) 
-[![MongoDB](URL_DE_IMAGEN_MONGODB)](ENLACE_MONGODB)
+[![MongoDB](https://img.icons8.com/?size=100&id=o6OvAxG0nzTH&format=png&color=000000)](ENLACE_MONGODB)
 
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice ..
 
