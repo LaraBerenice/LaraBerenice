@@ -2,7 +2,7 @@
 
 # Hola!! 👋 ✨🔭 Soy LaraBerenice... ✨
 
-![Nueva Imagen](xx.png)
+![Nueva Imagen](https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png)
 
 - 🌱 Soy analista de datos especializada en sostenibilidad y optimización de procesos agroalimentarios. Con experiencia en el uso de herramientas como Python, SQL, Power BI, Google Sheets y Excel, utilizo los datos para lograr eficiencia, efectividad y sustentabilidad. Tengo un punto de vista clave que me permite dar consejos fundamentales con conocimientos actualizados en los momentos más oportunos. ;) 🌎🍃😄⚡
 
