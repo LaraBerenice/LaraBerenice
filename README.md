@@ -5,9 +5,16 @@
 🌱 **Analista de Datos** especializada en sostenibilidad y optimización de procesos agroalimentarios. 
 
 ### 🌟 Mis Habilidades:
-- **Herramientas:** Python, SQL, Power BI, Google Sheets y Excel.
+- **Herramientas:** 🐍 Python, 📊 SQL, 📈 Power BI, 📅 Google Sheets, 🐳 Docker, 🚀 Apache Airflow
 - **Enfoque:** Utilizo datos para lograr eficiencia, efectividad y sustentabilidad.
-- **Asesoría:** Tengo un punto de vista clave que me permite ofrecer consejos fundamentales, siempre con conocimientos actualizados en los momentos más oportunos. 
+- **Asesoría:** Tengo un punto de vista clave que me permite ofrecer consejos fundamentales, siempre con conocimientos actualizados en los momentos más oportunos.
+
+### 💻 COMPETENCIAS TÉCNICAS
+- **🔧 Lenguajes de Programación:** 🐍 Python, 📊 SQL
+- **🛠 Herramientas:** 📈 Power BI, 📅 Google Sheets, 🐳 Docker, 🚀 Apache Airflow
+- **📊 Bases de Datos:** 🗄️ SQL Server, 📦 SQLite, 📊 PostgreSQL, 🗄️ MySQL, 🌐 MongoDB
+
+---
 
 ### 🌍 Contribuyo a:
 - La sostenibilidad en el sector agroalimentario.
