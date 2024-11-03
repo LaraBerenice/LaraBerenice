@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434) [![Power BI](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000)](ENLACE_POWER_BI) [![Google Sheets](URL_DE_IMAGEN_GOOGLE_SHEETS)](ENLACE_GOOGLE_SHEETS) [![Docker](URL_DE_IMAGEN_DOCKER)](ENLACE_DOCKER) [![Apache Airflow](URL_DE_IMAGEN_APACHE_AIRFLOW)](ENLACE_APACHE_AIRFLOW)
+![image](https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434) [![Power BI](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000)]![Google Sheets](https://img.icons8.com/?size=100&id=30461&format=png&color=000000)] [![Docker](URL_DE_IMAGEN_DOCKER)](ENLACE_DOCKER) [![Apache Airflow](URL_DE_IMAGEN_APACHE_AIRFLOW)](ENLACE_APACHE_AIRFLOW)
 
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice ..
 
