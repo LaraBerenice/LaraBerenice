@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434) 
+![image](https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434)
+[![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)](ENLACE_Python) 
 [![Power BI](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000)](ENLACE_POWER_BI) 
 [![Google Sheets](https://img.icons8.com/?size=100&id=30461&format=png&color=000000)](ENLACE_GOOGLE_SHEETS) 
 [![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)](ENLACE_DOCKER) 
