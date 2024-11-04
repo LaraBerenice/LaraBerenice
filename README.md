@@ -1,5 +1,7 @@
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice ..
 
+---
+
 🌱 Analista de Datos especializada en sostenibilidad y optimización de procesos agroalimentarios. Tengo un enfoque clave que me permite ofrecer consejos fundamentales, siempre basados en conocimientos actualizados y en el momento oportuno.🌱
 
 ### 💻 COMPETENCIAS TÉCNICAS
