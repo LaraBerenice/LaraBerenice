@@ -7,7 +7,7 @@
 - **🛠 Herramientas:** 📈 Power BI, 📅 Google Sheets, 🐳 Docker, 🚀 Apache Airflow
 - **📊 Bases de Datos:** 🗄️ SQL Server, 📦 SQLite, 📊 PostgreSQL, 🗄️ MySQL, 🌐 MongoDB
 
----
+--
 
 ### 🌍 Contribuyo a:
 - La sostenibilidad en el sector agroalimentario.
