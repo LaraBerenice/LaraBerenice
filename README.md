@@ -3,6 +3,8 @@
 
 🌱 Analista de Datos especializada en sostenibilidad y optimización de procesos agroalimentarios. Tengo un enfoque clave que me permite ofrecer consejos fundamentales, siempre basados en conocimientos actualizados y en el momento oportuno.🌱
 
+---
+
 ### 💻 COMPETENCIAS TÉCNICAS
 - **🔧 Lenguajes de Programación:** 🐍 Python, 📊 SQL
 - **🛠 Herramientas:** 📈 Power BI, 📅 Google Sheets, 🐳 Docker, 🚀 Apache Airflow
@@ -13,6 +15,8 @@
 ### 🌍 Contribuyo a:
 - La sostenibilidad en el sector agroalimentario.
 - La optimización de procesos a través del análisis de datos.
+
+---
 
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" alt="Imagen Principal" style="max-width: 100%; height: auto;">
@@ -50,10 +54,3 @@
         <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" alt="MongoDB" width="60" height="60">
     </a>
 </p>
-
-
-
-
-
-
-
