@@ -17,10 +17,7 @@
 </p>
 
 ---
-
 ### **💻 🛠 Lenguajes y Herramientas:**
----
-
 <p align="center">
     <a href="git_hub">
         <img src="https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434" alt="GitHub" width="60" height="60">
@@ -53,4 +50,4 @@
         <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" alt="MongoDB" width="60" height="60">
     </a>
 </p>
-
+---
