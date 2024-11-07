@@ -42,5 +42,3 @@ Contribuyo al desarrollo sostenible en el sector agroalimentario, optimizando pr
         <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" alt="MongoDB" width="60" height="60">
     </a>
 </p>
-
-Mi experiencia y habilidades en Python, análisis de datos, automatización y visualización de datos respaldan mis contribuciones al sector agroalimentario. Si buscas soluciones que integren sostenibilidad y optimización, ¡conectemos!
