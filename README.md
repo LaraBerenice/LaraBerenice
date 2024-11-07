@@ -1,8 +1,7 @@
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice ...
 
-**📧 Correo de contacto:**  ledesma.lara12345@gmail.com
+### 💻 **📧 Correo de contacto:**  ledesma.lara12345@gmail.com
 
-### 💻 
 - **🔧 Lenguajes de Programación:** 🐍 Python, 📊 SQL
 - **🛠 Herramientas:** 📈 Power BI, 📅 Google Sheets, 🐳 Docker, 🚀 Apache Airflow
 - **📊 Bases de Datos:** 🗄️ SQL Server, 📦 SQLite, 📊 PostgreSQL, 🗄️ MySQL, 🌐 MongoDB
