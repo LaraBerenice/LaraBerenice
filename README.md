@@ -8,7 +8,6 @@
 </p>
 
 ### **💻 🛠 Lenguajes y Herramientas:**
----
 <p align="center">
     <a href="ENLACE_GITHUB">
         <img src="https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434" alt="GitHub" width="40" height="40">
