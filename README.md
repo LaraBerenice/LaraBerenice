@@ -1,7 +1,7 @@
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice ...
 
-🌍 Especializada en sostenibilidad y optimización de procesos agroalimentarios. Contribuyo al desarrollo sostenible del sector optimizando procesos mediante el análisis de datos y un enfoque en prácticas sustentables.🌱
-
+🌱 Consultora en Sostenibilidad y Optimización de Procesos Agroalimentarios
+Contribuyo al desarrollo sostenible en el sector agroalimentario, optimizando procesos mediante el análisis de datos y prácticas sustentables. Mi enfoque está en aportar soluciones que integren la sostenibilidad ambiental y la eficiencia operativa, aprovechando al máximo el potencial de los datos para impulsar mejoras sostenibles.
 ---
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" alt="Imagen Principal" style="max-width: 100%; height: auto;">
@@ -41,3 +41,5 @@
         <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" alt="MongoDB" width="60" height="60">
     </a>
 </p>
+
+Mi experiencia y habilidades en Python, análisis de datos, automatización y visualización de datos respaldan mis contribuciones al sector agroalimentario. Si buscas soluciones que integren sostenibilidad y optimización, ¡conectemos!
