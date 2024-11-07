@@ -1,22 +1,13 @@
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice ...
 
-### 💻 **📧 Correo de contacto:**  ledesma.lara12345@gmail.com
-
-- **🔧 Lenguajes de Programación:** 🐍 Python, 📊 SQL
-- **🛠 Herramientas:** 📈 Power BI, 📅 Google Sheets, 🐳 Docker, 🚀 Apache Airflow
-- **📊 Bases de Datos:** 🗄️ SQL Server, 📦 SQLite, 📊 PostgreSQL, 🗄️ MySQL, 🌐 MongoDB
-
----
 ### 🌍 Contribuyo a:
 - La sostenibilidad en el sector agroalimentario.
 - La optimización de procesos a través del análisis de datos.
-
 ---
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" alt="Imagen Principal" style="max-width: 100%; height: auto;">
 </p>
 
----
 ### **💻 🛠 Lenguajes y Herramientas:**
 <p align="center">
     <a href="git_hub">
@@ -50,4 +41,3 @@
         <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" alt="MongoDB" width="60" height="60">
     </a>
 </p>
----
