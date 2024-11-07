@@ -2,6 +2,7 @@
 
 🌱 Consultora en Sostenibilidad y Optimización de Procesos Agroalimentarios
 Contribuyo al desarrollo sostenible en el sector agroalimentario, optimizando procesos mediante el análisis de datos y prácticas sustentables. Mi enfoque está en aportar soluciones que integren la sostenibilidad ambiental y la eficiencia operativa, aprovechando al máximo el potencial de los datos para impulsar mejoras sostenibles.
+
 ---
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" alt="Imagen Principal" style="max-width: 100%; height: auto;">
