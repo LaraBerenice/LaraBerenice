@@ -1,6 +1,6 @@
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice ...
 
-🌍 Analista de Datos especializada en sostenibilidad y optimización de procesos agroalimentarios. Contribuyo al desarrollo sostenible del sector optimizando procesos mediante el análisis de datos y un enfoque en prácticas sustentables. 🌱
+🌍 Epecializada en sostenibilidad y optimización de procesos agroalimentarios. Contribuyo al desarrollo sostenible con un enfoque en prácticas sustentables. 🌱
 
 ---
 <p align="center">
