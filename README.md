@@ -6,7 +6,7 @@
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" alt="Imagen Principal" style="max-width: 100%; height: auto;">
 </p>
-
+---
 ### **💻 🛠 Lenguajes y Herramientas:**
 <p align="center">
     <a href="ENLACE_GITHUB">
