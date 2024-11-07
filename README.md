@@ -11,7 +11,9 @@
 - La sostenibilidad en el sector agroalimentario.
 - La optimización de procesos a través del análisis de datos.
 
-
+---
+### **💻 🛠 Lenguajes y Herramientas:**
+---
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" alt="Imagen Principal" style="max-width: 100%; height: auto;">
 </p>
