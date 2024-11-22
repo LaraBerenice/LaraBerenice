@@ -47,7 +47,7 @@
 ---
 
 ### 🚀 Proyectos y Enfoque
-- **Optimización de procesos agroalimentarios** mediante el análisis de datos y técnicas predictivas.
+- **Optimización de procesos agroalimentarios** mediante el análisis de datos.
 - **Evaluación de impacto ambiental** usando herramientas tecnológicas.
 - **Análisis de datos** para la mejora de la eficiencia en la cadena de suministro agroindustrial.
 - **Desarrollo de soluciones tecnológicas** que integran la sostenibilidad en las prácticas operativas del sector agroalimentario.
