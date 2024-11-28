@@ -56,4 +56,4 @@
 
 ### 📫 Contacto
 ¡Conéctate conmigo!  
-[LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com) | [Portafolio](https://sophshep-github-io.vercel.app/)
+[Portafolio](https://sophshep-github-io.vercel.app/) [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
