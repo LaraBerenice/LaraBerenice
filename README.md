@@ -46,7 +46,7 @@
 
 ---
 
-### 🚀 Proyectos y Enfoque
+### 🚀 Enfoque de los servicios
 - **Optimización de procesos agroalimentarios** mediante el análisis de datos.
 - **Evaluación de impacto ambiental** usando herramientas tecnológicas.
 - **Análisis de datos** para la mejora de la eficiencia en la cadena de suministro agroindustrial.
