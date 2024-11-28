@@ -46,7 +46,7 @@
 
 ---
 
-### 🚀 Enfoque de las soluciones:
+### 🚀 Enfoque de los Servicios:
 - **Optimización de procesos agroalimentarios** mediante el análisis de datos.
 - **Evaluación de impacto ambiental** usando herramientas tecnológicas.
 - **Análisis de datos** para la mejora de la eficiencia en la cadena de suministro agroindustrial.
@@ -54,6 +54,6 @@
 
 ---
 
-### 📫 Contacto
+### 📫 Los repositorios destacados y publicos son una muestra de mi trabajo para publico en general pero para el desarrollo de proyectos privados: 
 ¡Conéctate conmigo!  
 [Portafolio](https://sophshep-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
