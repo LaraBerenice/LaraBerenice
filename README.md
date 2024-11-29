@@ -56,4 +56,4 @@
 ⚠️ Los repositorios destacados y públicos son una muestra de mi trabajo para el público en general. Para el desarrollo de nuevos proyectos personalizados y privados...
 
 📫 ¡Conéctate conmigo!: 
-[Portafolio](https://sophshep-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
+[Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
