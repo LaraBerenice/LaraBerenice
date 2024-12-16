@@ -48,9 +48,9 @@
 
 ### 🚀 Enfoque de los Servicios:
 - **Optimización de procesos agroalimentarios** mediante el análisis de datos.
-- **Evaluación de impacto ambiental** usando herramientas tecnológicas.
-- **Análisis de datos** para la mejora de la eficiencia en la cadena de suministro agroindustrial.
-- **Desarrollo de soluciones tecnológicas** que integren la sostenibilidad en las prácticas operativas del sector agroalimentario.
+- **Evaluación y Control de impacto ambiental** usando herramientas tecnológicas.
+- **Análisis de datos** Economico, costos, financiero, riezgos ambientales , cadena de valor, calidad alimentaria.
+- **Optimizacion del uso de los recursos**: monitoreo y control.
 
 ---
 ⚠️ Los repositorios destacados y públicos son una muestra de mi trabajo para el público en general. Para el desarrollo de nuevos proyectos personalizados y privados...
