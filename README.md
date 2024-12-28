@@ -59,7 +59,7 @@
 
 ## 🌟 **Valor Diferencial**  
 
-A través de tableros claros y funcionales, ayudo a mis clientes a:  
+A través de tableros claros y funcionales, ayudo a:  
 - Visualizar y analizar datos clave.  
 - Monitorear métricas.  
 - Tomar decisiones estratégicas basadas en evidencia.  
