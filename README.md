@@ -48,7 +48,7 @@
 
 ## 🚀 **Servicios y Soluciones**  
 
-- **Diseño y desarrollo de tableros de control personalizados**, ideales para:  
+- **Diseño y desarrollo de tableros de control**, ideales para:  
   - **Monitoreo ambiental**: calidad del aire, agua, emisiones y gestión de residuos.  
   - **Gestión agroempresarial**: productividad, costos y sostenibilidad.  
   - **Cumplimiento normativo**: seguimiento de regulaciones ambientales.  
