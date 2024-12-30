@@ -49,7 +49,7 @@
 ## 🚀 **Servicios y Soluciones**  
 
 - **Diseño y desarrollo de tableros de control**, ideales para:  
-  - **Monitoreo ambiental**: calidad del aire, agua, emisiones y gestión de residuos.  
+  - **Monitoreo ambiental**: calidad del aire, agua, emisiones, energia y gestión de residuos, ect.  
   - **Gestión agroempresarial**: Analisis de costos, indicadores económicos y financieros, análisis de cadenas de valor y calidad alimentaria.
   - **Cumplimiento normativo**: seguimiento de regulaciones y objetivos ambientales empresariales que sirven de respaldo ante cotroles.  
   - **Análisis histórico**:  seguimiento, atenciòn, busqueda y anàlisis de tendencias y datos que puedan ser reelevantes relevantes.
