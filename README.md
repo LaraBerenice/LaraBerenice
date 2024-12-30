@@ -51,7 +51,7 @@
 - **Diseño y desarrollo de tableros de control**, ideales para:  
   - **Monitoreo ambiental**: aire, agua, emisiones, energìa y gestión de residuos, ect.  
   - **Gestión agroempresarial**: costos, indicadores económicos y financieros, análisis de cadenas de valor y calidad alimentaria.
-  - **Cumplimiento normativo**: seguimiento de regulaciones y objetivos ambientales empresariales que sirven de respaldo ante cotroles.  
+  - **Cumplimiento normativo**: seguimiento de regulaciones y objetivos ambientales que sirven de respaldo ante cotroles.  
   - **Análisis histórico**: atenciòn, busqueda y anàlisis de tendencias que puedan ser reelevantes relevantes.
   - **Gestión de proyectos**: productividad con indicadores de avance, plazos y resultados.
 ---
