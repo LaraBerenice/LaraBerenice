@@ -1,6 +1,6 @@
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice
 
-🌍 🌱 **Estoy especializada en Sostenibilidad y Optimización de Procesos Agroalimentarios**. Mi objetivo es contribuir al desarrollo ambiental responsable y mejorar procesos a través del análisis de datos. Mi enfoque está en desarrollar soluciones que combinen el cuidado del medio ambiente con la eficiencia operativa, aprovechando al máximo el potencial de los datos para generar mejoras significativas. 🌱
+🌍 🌱 **Estoy especializada en Sostenibilidad y Optimización de Procesos Agroalimentarios**. Mi objetivo es contribuir al desarrollo ambiental responsable y mejorar procesos a través del análisis de datos. Mi enfoque está en desarrollar soluciones que combinen el cuidado del medio ambiente con la eficiencia operativa, aprovechando al máximo el potencial de los datos. 🌱
 
 ---
 
