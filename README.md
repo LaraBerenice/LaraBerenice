@@ -1,6 +1,6 @@
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice
 
-🌍 🌱 **Estoy especializada en Sostenibilidad y Optimización de Procesos Agroalimentarios**. Mi objetivo es contribuir al desarrollo ambiental responsable y mejorar procesos a través del análisis de datos. Mi enfoque está en desarrollar soluciones que combinen el cuidado del medio ambiente con la eficiencia operativa, aprovechando al máximo el potencial de los datos. 🌱
+🌍 🌱 **Actualmente estoy estudiando una Maestia en gestion ambiental y soy Licenciada en gestiòn de agroempresas**. me dedico a ayudar al control de gestiòn de las agroempresas con la elaboracion de tableros de control segun los requisitos especificos de la planificacion en cada agroempresa. Mas adelante pretendo aplicar mis estudios en gestion ambiental para poder aportar mas valor a la gestion de estas empresas apartir del control de gestiòn ambiental. 🌱
 
 ---
 
@@ -50,8 +50,8 @@
 
 - **Diseño y desarrollo de tableros de control**, ideales para:  
   - **Monitoreo ambiental**: aire, agua, emisiones, energìa, gestión de residuos, ect.  
-  - **Gestión agroempresarial**: control de costos, indicadores económicos y financieros, análisis de cadenas de valor y calidad alimentaria.
-  - **Cumplimiento normativo**: seguimiento de regulaciones y objetivos ambientales que sirven de respaldo ante cotroles.  
+  - **Gestión agroempresarial**: control de costos, indicadores económicos y financieros, análisis de cadenas de valor,calidad, ect.
+  - **Cumplimiento normativo**: seguimiento de regulaciones y objetivos ambientales como respaldo para auditorías.
   - **Análisis histórico**: atenciòn, busqueda y anàlisis de tendencias que puedan ser reelevantes.
   - **Gestión de proyectos**: productividad con indicadores de avance, plazos y resultados.
 ---
