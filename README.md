@@ -60,7 +60,8 @@
 
 - Visualizar y analizar datos clave.  
 - Monitorear métricas.  
-- Tomar decisiones estratégicas basadas en evidencia.  
+- Tomar decisiones estratégicas basadas en evidencia.
+- Informes de gestion respaldados con la firma de un profesional.
 
 ---
 ⚠️ Los repositorios destacados y públicos son de muestra. Para el desarrollo de proyectos personalizados y privados...
