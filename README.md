@@ -52,16 +52,15 @@
   - **Monitoreo ambiental**: aire, agua, emisiones, energìa, gestión de residuos, ect.  
   - **Gestión agroempresarial**: control de costos, indicadores económicos y financieros, análisis de cadenas de valor,calidad, ect.
   - **Cumplimiento normativo**: seguimiento de regulaciones y objetivos ambientales como respaldo para auditorías.
-  - **Análisis histórico**: atenciòn, busqueda y anàlisis de tendencias que puedan ser reelevantes.
+  - **Análisis histórico**: atenciòn, busqueda y anàlisis de tendencias que puedan ser reelevantes para la toma de desiciones.
   - **Gestión de proyectos**: productividad con indicadores de avance, plazos y resultados.
 ---
 
 ## 🌟 **Valor Diferencial**  
 
-- Visualizar y analizar datos clave.  
-- Monitorear métricas.  
-- Tomar decisiones estratégicas basadas en evidencia.
-- Informes de gestion respaldados con la firma de un profesional.
+- Visualizar, monitorear y analizar métricas y datos clave.
+- Soporte para decisiones estratégicas basadas en evidencia.
+- Informes de gestión profesionalizados con validez técnica.
 
 ---
 ⚠️ Los repositorios destacados y públicos son de muestra. Para el desarrollo de proyectos personalizados y privados...
