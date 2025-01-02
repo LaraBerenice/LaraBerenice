@@ -63,7 +63,7 @@
 - Informes de gestión profesionalizados con validez técnica.
 
 ---
-⚠️ Los repositorios destacados y públicos son de muestra. Para el desarrollo de proyectos personalizados y privados...
+⚠️ Los repositorios destacados y públicos son de muestra. Para el desarrollo de proyectos privados...
 
 📫 ¡Conéctate conmigo!: 
 [Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
