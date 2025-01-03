@@ -1,6 +1,6 @@
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice
 
-🌍 🌱 **Actualmente estoy cursando una Maestría en Gestión Ambiental y soy Licenciada en Gestión de Agroempresas.** Me dedico a optimizar el control de gestión en agroempresas mediante el diseño y elaboración de tableros de control adaptados a los requisitos específicos de cada planificación estratégica. A futuro, planeo integrar mis conocimientos en gestión ambiental para aportar mayor valor implementando sistemas de control ambiental.🌱
+🌍 🌱 **Actualmente soy Analista de Datos, con una formación en Gestión Ambiental y en Gestión de Agroempresas. Me especializo en optimizar el control de gestión mediante el diseño y elaboración de tableros de control adaptados a las necesidades estratégicas de diferentes sectores. A futuro, planeo integrar mis conocimientos en gestión ambiental para aportar valor a través de la implementación de sistemas de control ambiental eficiente🌱
 
 ---
 
