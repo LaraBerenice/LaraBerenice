@@ -2,6 +2,11 @@
 
 🌍 🌱 Me especializo en optimizar el control de gestión mediante el diseño y elaboración de tableros de control adaptados a las necesidades estratégicas de diferentes sectores.🌱
 
+⚠️ Los repositorios destacados y públicos son de muestra. Para el desarrollo de proyectos privados...
+
+📫 ¡Conéctate conmigo!: 
+[Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
+
 ---
 
 <p align="center">
@@ -64,7 +69,4 @@
 
 ---
 
-⚠️ Los repositorios destacados y públicos son de muestra. Para el desarrollo de proyectos privados...
 
-📫 ¡Conéctate conmigo!: 
-[Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
