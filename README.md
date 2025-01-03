@@ -62,7 +62,7 @@
 - Soporte para decisiones estratégicas basadas en evidencia.
 - Informes de gestión profesionalizados con validez técnica.
 
----
+
 ⚠️ Los repositorios destacados y públicos son solo de muestra. Para el desarrollo de proyectos privados...
 
 📫 ¡Conéctate conmigo !: 
