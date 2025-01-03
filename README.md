@@ -2,11 +2,6 @@
 
 🌍 🌱 **Soy estudiante de Maestrìa en gestiòn ambiental y Licenciada en gestiòn de agroempresas**, mediante el diseño y la elaboración de tableros de control adaptados a las necesidades estratégicas de diferentes sectores busco proporcionar información clara y relevante que permita a las empresas optimizar sus recursos, mejorar su eficiencia y fomentar el crecimiento sostenible🌱
 
-⚠️ Los repositorios destacados y públicos son solo de muestra. Para el desarrollo de proyectos privados...
-
-📫 ¡Conéctate conmigo !: 
-[Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
-
 ---
 
 <p align="center">
@@ -68,5 +63,10 @@
 </p>
 
 ---
+⚠️ Los repositorios destacados y públicos son solo de muestra. Para el desarrollo de proyectos privados...
 
+📫 ¡Conéctate conmigo !: 
+[Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
+
+---
 
