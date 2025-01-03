@@ -1,6 +1,6 @@
 # ¡Hola! 👋 ✨🔭 Soy LaraBerenice
 
-🌍 🌱 Me especializo en optimizar el control de gestión mediante el diseño y elaboración de tableros de control adaptados a las necesidades estratégicas de diferentes sectres.🌱
+🌍 🌱 Me especializo en optimizar el control de gestión mediante el diseño y elaboración de tableros de control adaptados a las necesidades estratégicas de diferentes sectores.🌱
 
 ---
 
