@@ -19,11 +19,20 @@
     <a href="https://www.python.org/">
         <img src="https://img.icons8.com/?size=80&id=13441&format=png&color=000000" alt="Python" width="50" height="50">
     </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="Visual Studio Code" width="50" height="50">
+    </a>
     <a href="https://www.anaconda.com/">
         <img src="https://github.com/user-attachments/assets/da3b70cd-0db3-49db-9d32-b3a42853b53f" alt="Anaconda" width="50" height="50">
     </a>
     <a href="https://powerbi.microsoft.com/">
         <img src="https://img.icons8.com/?size=80&id=qYfwpsRXEcpc&format=png&color=000000" alt="Power BI" width="50" height="50">
+    </a>
+    <a href="https://www.tableau.com/">
+        <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="50" height="50">
+    </a>
+    <a href="https://lookerstudio.google.com/">
+        <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="Looker Studio" width="50" height="50">
     </a>
     <a href="https://www.google.com/sheets/about/">
         <img src="https://img.icons8.com/?size=80&id=30461&format=png&color=000000" alt="Google Sheets" width="50" height="50">
@@ -43,15 +52,7 @@
     <a href="https://www.mongodb.com/">
         <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" alt="MongoDB" width="50" height="50">
     </a>
-       <a href="https://www.tableau.com/">
-        <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="50" height="50">
-    </a>
-    <a href="https://lookerstudio.google.com/">
-        <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="Looker Studio" width="50" height="50">
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="Visual Studio Code" width="50" height="50">
-    </a>
+   
 </p>
 
 
