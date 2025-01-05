@@ -11,6 +11,7 @@
 ---
 
 ### **💻 🛠 Lenguajes y Herramientas:**
+
 <p align="center">
     <a href="https://github.com/LaraBerenice">
         <img src="https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434" alt="GitHub" width="50" height="50">
@@ -42,7 +43,20 @@
     <a href="https://www.mongodb.com/">
         <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" alt="MongoDB" width="50" height="50">
     </a>
+       <a href="https://www.tableau.com/">
+        <img src="https://img.icons8.com/?size=80&id=qlX43pS1oY77&format=png&color=000000" alt="Tableau" width="50" height="50">
+    </a>
+    <a href="https://lookerstudio.google.com/">
+        <img src="https://img.icons8.com/?size=80&id=V83H3ir5Aglp&format=png&color=000000" alt="Looker Studio" width="50" height="50">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://img.icons8.com/?size=80&id=Vg7BX2RbYqPC&format=png&color=000000" alt="Visual Studio Code" width="50" height="50">
+    </a>
 </p>
+
+
+
+
 
 ---
 
