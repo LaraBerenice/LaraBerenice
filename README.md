@@ -44,7 +44,7 @@
         <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" alt="MongoDB" width="50" height="50">
     </a>
        <a href="https://www.tableau.com/">
-        <img src="https://img.icons8.com/?size=80&id=qlX43pS1oY77&format=png&color=000000" alt="Tableau" width="50" height="50">
+        <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="50" height="50">
     </a>
     <a href="https://lookerstudio.google.com/">
         <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="Looker Studio" width="50" height="50">
