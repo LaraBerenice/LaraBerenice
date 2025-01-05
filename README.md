@@ -84,7 +84,7 @@
 
 ---
 
-⚠️ Los repositorios destacados y públicos son solo de muestra. Para el desarrollo de proyectos privados...
+⚠️ Los repositorios públicos destacados son una muestra de mi trabajo. Estoy abierta a colaborar en proyectos de mi interés o a recibir colaboración para mejorar mis iniciativas públicas. Además, también estoy disponible para el desarrollo de proyectos privados.
 
 📫 ¡Conéctate conmigo !: 
 [Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
