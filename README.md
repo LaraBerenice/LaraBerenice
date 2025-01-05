@@ -50,7 +50,7 @@
         <img src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="Looker Studio" width="50" height="50">
     </a>
     <a href="https://code.visualstudio.com/">
-        <img src="https://img.icons8.com/?size=80&id=Vg7BX2RbYqPC&format=png&color=000000" alt="Visual Studio Code" width="50" height="50">
+        <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="Visual Studio Code" width="50" height="50">
     </a>
 </p>
 
