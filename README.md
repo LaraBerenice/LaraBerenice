@@ -84,7 +84,23 @@
 
 ---
 
-⚠️ Los repositorios públicos destacados son una muestra de mi trabajo. Estoy abierta a colaborar en proyectos de mi interés o a recibir colaboración para mejorar mis iniciativas públicas. Además, también estoy disponible para el desarrollo de proyectos privados.
+⚠️ Los repositorios públicos destacados son una muestra de mi trabajo. Estoy abierta a colaborar en proyectos de mi interés o a recibir colaboración para mejorar mis iniciativas públicas. 
+
+---
+
+## Condiciones de Contribución
+
+Bajo la **Licencia MIT**, lo que significa que puedes visualizar, modificar y distribuir el código publioco, siempre que mantengas el aviso de derechos de autor y la misma licencia.
+
+Sin embargo, quiero dejar claro que, aunque el código es público, **no se permite su uso comercial ni su integración en otros proyectos sin mi consentimiento explícito**.
+
+### ¿Cómo puedes contribuir?
+
+Puedes contribuir enviando **pull requests** con mejoras o correcciones al código. Si deseas contribuir con ideas o informes de errores, puedes abrir un **issue** en este repositorio.
+
+Gracias por seguir estas pautas.
+
+⚠️ Además, también estoy disponible para el desarrollo de proyectos privados, para mas informacion...
 
 📫 ¡Conéctate conmigo !: 
 [Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
