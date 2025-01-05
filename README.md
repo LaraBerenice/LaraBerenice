@@ -13,6 +13,10 @@
 ### **💻 🛠 Lenguajes y Herramientas:**
 
 <p align="center">
+    </a>
+    <a href="https://www.linuxmint.com/">
+    <img src="https://img.icons8.com/?size=100&id=101664&format=png&color=000000" width="50" height="50">
+    </a>
     <a href="https://github.com/LaraBerenice">
         <img src="https://github.com/user-attachments/assets/70bb8b8e-b3ce-48a3-ae6f-5c4cb1db8434" alt="GitHub" width="50" height="50">
     </a>
