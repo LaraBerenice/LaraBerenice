@@ -75,7 +75,7 @@
   - **Análisis histórico**: atenciòn, busqueda y anàlisis de tendencias que puedan ser reelevantes para la toma de desiciones.
   - **Gestión de proyectos**: productividad con indicadores de avance, plazos y resultados.
     
-- **Diseño de pipelines para gestión de datos ambientales**: Implementación de flujos automatizados que integren y procesen datos provenientes de diversas fuentes, como sensores ambientales y bases de datos empresariales, para realizar análisis eficientes y generar reportes profesionales
+- **Diseño de pipelines para gestión de datos ambientales**: Implementación de flujos automatizados que integren y procesen datos provenientes de diversas fuentes, como sensores ambientales y bases de datos empresariales, para realizar análisis eficientes y generar reportes profesionales.
     
 
 ## 🌟 **Valor Diferencial**  
