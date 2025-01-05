@@ -90,7 +90,7 @@
 
 ## Condiciones de Contribución
 
-Bajo la **Licencia MIT**, lo que significa que puedes visualizar, modificar y distribuir el código publioco, siempre que mantengas el aviso de derechos de autor y la misma licencia.
+Bajo la **Licencia MIT**, lo que significa que puedes visualizar, modificar y distribuir el código pùblico, siempre que mantengas el aviso de derechos de autor y la misma licencia.
 
 Sin embargo, quiero dejar claro que, aunque el código es público, **no se permite su uso comercial ni su integración en otros proyectos sin mi consentimiento explícito**.
 
