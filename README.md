@@ -63,7 +63,7 @@
   
 ⚠️ Los repositorios públicos-destacados son de muestra.
 
-### Condiciones de Contribución
+### 👥 Condiciones de Contribución
 
 Bajo la Licencia MIT, lo que significa que puedes visualizar, modificar y distribuir el código público, siempre que mantengas el aviso de derechos de autor y la misma licencia.
 
