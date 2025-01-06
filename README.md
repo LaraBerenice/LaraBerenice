@@ -67,7 +67,6 @@
 
 Bajo la Licencia MIT, lo que significa que puedes visualizar, modificar y distribuir el código público, siempre que mantengas el aviso de derechos de autor y la misma licencia.
 
-Sin embargo, quiero dejar claro que, aunque el código es público, no se permite su uso comercial ni su integración en otros proyectos sin mi consentimiento explícito.
 Si decides forkearlos para usarlos o aprender de ellos, ¡no olvides dejar una estrella ⭐ en el repositorio original!
 
 ### ¿Cómo puedes contribuir?
