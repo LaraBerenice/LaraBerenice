@@ -78,10 +78,10 @@
 
 ---
   
-⚠️ Los repositorios públicos destacados son una muestra de mi trabajo. Estoy abierta a colaborar en proyectos de mi interés o a recibir colaboraciónes para mejorar. 
+⚠️ Los repositorios públicos destacados son una muestra de mi trabajo. Estoy abierta a colaborar en proyectos de mi interés o a recibir colaboraciónes. 
 
 
-## Condiciones de Contribución
+## Condiciones de Contribuciónes
 
 Bajo la **Licencia MIT**, lo que significa que puedes visualizar, modificar y distribuir el código pùblico, siempre que mantengas el aviso de derechos de autor y la misma licencia.
 
