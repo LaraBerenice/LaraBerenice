@@ -58,6 +58,8 @@ Soy estudiante de Maestría en Gestión Ambiental y Licenciada en Gestión de Ag
     </a>
    
 </p>
+
+---
   
 ⚠️ Los repositorios públicos-destacados son de muestra.
 
