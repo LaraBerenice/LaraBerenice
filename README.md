@@ -1,6 +1,6 @@
 # 🌱 ¡Hola! 👋 ✨🔭 Soy LaraBerenice
 
-**Soy estudiante de Maestrìa en gestiòn ambiental y Licenciada en gestiòn de agroempresas**, mediante el diseño y la elaboración de tableros de control adaptados a las necesidades estratégicas de diferentes sectores busco proporcionar información clara y relevante que permita a las empresas optimizar sus recursos, mejorar su eficiencia y fomentar el crecimiento sostenible.🌱 🌍
+Soy estudiante de Maestría en Gestión Ambiental y Licenciada en Gestión de Agroempresas, con experiencia en el análisis de datos. Me dedico a transformar datos en información útil y estratégica para optimizar recursos, mejorar la eficiencia y apoyar el desarrollo sostenible..🌱 🌍
 
 ---
 
