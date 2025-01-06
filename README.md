@@ -78,10 +78,10 @@
 
 ---
   
-⚠️ Los repositorios públicos destacados son una muestra de mi trabajo. Estoy abierta a colaborar en proyectos de mi interés o a recibir colaboraciónes. 
+⚠️ Los repositorios públicos-destacados son de muestra.
 
 
-## Condiciones de Contribuciónes
+## Condiciones de Contribución
 
 Bajo la **Licencia MIT**, lo que significa que puedes visualizar, modificar y distribuir el código pùblico, siempre que mantengas el aviso de derechos de autor y la misma licencia.
 
@@ -89,7 +89,7 @@ Sin embargo, quiero dejar claro que, aunque el código es público, **no se perm
 
 ### ¿Cómo puedes contribuir?
 
-Puedes contribuir enviando **pull requests** con mejoras o correcciones al código. Si deseas contribuir con ideas o informes de errores, puedes abrir un **issue** en el repositorio.
+Puedes contribuir enviando **pull requests** con mejoras o correcciones. Si deseas contribuir con ideas o informes de errores, puedes abrir un **issue** en el repositorio.
 
 Gracias por seguir estas pautas.
 
