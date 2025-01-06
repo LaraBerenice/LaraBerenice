@@ -78,7 +78,7 @@
 
 ---
   
-⚠️ Los repositorios públicos destacados son una muestra de mi trabajo. Estoy abierta a colaborar en proyectos de mi interés o a recibir colaboración para mejorar. 
+⚠️ Los repositorios públicos destacados son una muestra de mi trabajo. Estoy abierta a colaborar en proyectos de mi interés o a recibir colaboraciónes para mejorar. 
 
 
 ## Condiciones de Contribución
