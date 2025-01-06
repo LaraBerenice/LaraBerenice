@@ -66,7 +66,7 @@
 ---
 
 
-## 🚀 **Servicios y Soluciones**  
+## 🚀 **Soluciones**  
 
 - **Diseño y desarrollo de tableros de control**, ideales para:  
   - **Monitoreo ambiental**: aire, agua, emisiones, energìa, gestión de residuos, ect.  
