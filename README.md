@@ -68,15 +68,14 @@
   - **Cumplimiento normativo**: seguimiento de regulaciones y objetivos ambientales como respaldo para auditorías.
   - **Análisis histórico**: atenciòn, busqueda y anàlisis de tendencias que puedan ser reelevantes para la toma de desiciones.
   - **Gestión de proyectos**: productividad con indicadores de avance, plazos y resultados.
-    
 
+    
 ## 🌟 **Valor Diferencial**  
 
 - Visualizar, monitorear y analizar métricas y datos clave.
 - Soporte para decisiones estratégicas basadas en evidencia.
 - Informes de gestión profesionalizados con validez técnica.
-
----
+  
 
 ⚠️ Los repositorios públicos destacados son una muestra de mi trabajo. Estoy abierta a colaborar en proyectos de mi interés o a recibir colaboración para mejorar. 
 
