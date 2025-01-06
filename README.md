@@ -96,7 +96,7 @@ Sin embargo, quiero dejar claro que, aunque el código es público, **no se perm
 
 ### ¿Cómo puedes contribuir?
 
-Puedes contribuir enviando **pull requests** con mejoras o correcciones al código. Si deseas contribuir con ideas o informes de errores, puedes abrir un **issue** en este repositorio.
+Puedes contribuir enviando **pull requests** con mejoras o correcciones al código. Si deseas contribuir con ideas o informes de errores, puedes abrir un **issue** en el repositorio.
 
 Gracias por seguir estas pautas.
 
