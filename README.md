@@ -14,7 +14,6 @@
 
 <p align="center">
     </a>
-    <a href="https://www.linuxmint.com/">
     <img src="https://img.icons8.com/?size=100&id=101664&format=png&color=000000" width="50" height="50">
     </a>
     <a href="https://github.com/LaraBerenice">
@@ -41,13 +40,13 @@
     <a href="https://www.google.com/sheets/about/">
         <img src="https://img.icons8.com/?size=80&id=30461&format=png&color=000000" alt="Google Sheets" width="50" height="50">
     </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <a href="">
         <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" width="50" height="50">
     </a>
-    <a href="https://www.docker.com/">
+    <a href="">
         <img src="https://img.icons8.com/?size=80&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" width="50" height="50">
     </a>
-    <a href="https://airflow.apache.org/">
+    <a href="">
         <img src="https://github.com/user-attachments/assets/8ff6532e-81c5-4abc-bb0a-dea8e6cf0c79" alt="Apache Airflow" width="50" height="50">
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server">
