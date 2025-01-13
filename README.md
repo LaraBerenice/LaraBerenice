@@ -46,8 +46,6 @@
 </p>
 
 ---
-  
-⚠️ Los repositorios públicos-destacados son de muestra.
 
 ### 👥 Condiciones de Contribución
 
@@ -61,9 +59,7 @@ Puedes contribuir enviando pull requests con mejoras o correcciones. Si deseas c
 
 Gracias por seguir estas pautas.
 
-⚠️ Además, también estoy disponible para el desarrollo de proyectos privados, para mas informaciòn...
 
-📫 ¡Conéctate conmigo !: 
-[Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
+📫 [Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
 
 
