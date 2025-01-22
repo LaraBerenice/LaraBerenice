@@ -60,6 +60,6 @@ Puedes contribuir enviando pull requests con mejoras o correcciones. Si deseas c
 Gracias por seguir estas pautas.
 
 
-📫 [Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/laraberenice) | [Correo](lara.ledesma12345@gmail.com)
+📫 [Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/lara-berenice-l-89527332b) | [Correo](lara.ledesma12345@gmail.com)
 
 
