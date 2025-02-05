@@ -1,6 +1,6 @@
 # 🌐 ¡Hola! 👋  Soy LaraBerenice 📈 🔍 
 
-**Soy estudiante de Maestría en Gestión Ambiental y Licenciada en Gestión de Agroempresas, con experiencia en análisis de datos**, buscando transformar datos en información que facilite la optimización de recursos, la mejora de la eficiencia, la identificación de patrones y la toma de decisiones basadas en evidencia, entre otros beneficios de contar con datos y saber como tratarlos para convertirlos en información que logre ser valiosa y oportuna. 🌍 📊
+Soy una mujer joven, analítica y creativa, con habilidades tecnológicas que aportan valor. Me gradué como Bachiller en Economía y Gestión de las Organizaciones y obtuve la Licenciatura en Gestión de Agroempresas. Actualmente, curso una Maestría en Gestión Ambiental. Cuento con conocimientos adquiridos en estudios, certificaciones, cursos y proyectos. Me considero curiosa y en constante formación para seguir creciendo. Además, estoy explorando la docencia para compartir mi trayectoria académica. ambito en donde creo tendria mucho valor mi conocimiento. 🌍 📊
 
 ---
 
