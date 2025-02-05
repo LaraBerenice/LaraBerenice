@@ -1,6 +1,6 @@
 # 🌐 ¡Hola! 👋  Soy LaraBerenice 📈 🔍 
 
-Soy una mujer joven, analítica y creativa, con habilidades tecnológicas que aportan valor en cualquier ambito. Me gradué como Bachiller en Economía y Gestión de las Organizaciones y obtuve la Licenciatura en Gestión de Agroempresas. Actualmente, curso una Maestría en Gestión Ambiental. Cuento con conocimientos adquiridos en estudios, certificaciones, cursos y proyectos. Me considero curiosa y en constante formación para seguir creciendo. Además, estoy explorando la docencia para compartir mi trayectoria académica en este ambito en donde creo que el conocimiento es de mucho valor. 🌍 📊
+Soy una mujer joven, analítica y creativa, con habilidades tecnológicas que aportan valor en cualquier ambito. Me gradué como Bachiller en Economía y Gestión de las Organizaciones y obtuve la **Licenciatura en Gestión de Agroempresas**. Actualmente, curso una **Maestría en Gestión Ambiental**. Cuento con conocimientos adquiridos en estudios, certificaciones, cursos y proyectos. Me considero curiosa y en constante formación para seguir creciendo. Además, estoy explorando la docencia para compartir mi trayectoria académica en este ambito en donde creo que el conocimiento es de mucho valor. 🌍 📊
 
 ---
 
