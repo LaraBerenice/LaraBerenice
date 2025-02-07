@@ -47,18 +47,6 @@ Soy una mujer joven, analítica y creativa, con habilidades tecnológicas que ap
 
 ---
 
-### 👥 Condiciones de Contribución
-
-Bajo la Licencia MIT, lo que significa que puedes visualizar, modificar y distribuir el código público, siempre que mantengas el aviso de derechos de autor y la misma licencia.
-
-Si decides forkearlos para usarlos o aprender de ellos, ¡no olvides dejar una estrella ⭐ en el repositorio original!
-
-### ¿Cómo puedes contribuir?
-
-Puedes contribuir enviando pull requests con mejoras o correcciones. Si deseas contribuir con ideas o informes de errores, puedes abrir un issue en el repositorio.
-
-Gracias por seguir estas pautas.
-
 
 📫 [Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/lara-berenice-l-89527332b) | [Correo](lara.ledesma12345@gmail.com)
 
