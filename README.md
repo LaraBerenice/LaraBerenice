@@ -44,6 +44,8 @@ Soy una mujer joven, analítica y creativa, con habilidades tecnológicas que ap
     </a>
         <img src="https://github.com/user-attachments/assets/404c6695-7ff9-421e-bf46-a3cb714f1521" alt="MongoDB" width="50" height="50">
     </a>
+        <img src="https://cdn.prod.website-files.com/62d9b9c78f111f03f778e150/655d9c300d7db529318c4afb_Plotly.png" alt="Dash" width="50" height="50">
+    </a>
    
 </p>
 
