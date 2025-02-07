@@ -49,6 +49,6 @@ Soy una mujer joven, analítica y creativa, con habilidades tecnológicas que ap
 
 ---
 
-📫 [Portafolio](https://lara-berenice-ledesma-github-io.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/lara-berenice-l-89527332b) | [Correo](lara.ledesma12345@gmail.com)
+📫 [Portafolio](https://lara-berenice-lara-portafolio-m-02.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/lara-berenice-l-89527332b) | [Correo](lara.ledesma12345@gmail.com)
 
 ---
