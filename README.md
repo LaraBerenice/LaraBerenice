@@ -1,3 +1,5 @@
+---
+
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" alt="Imagen Principal" style="max-width: 100%; height: auto;">
 </p>
@@ -6,7 +8,6 @@
 
 <h1 align="center">🌐 ¡Hola! 👋 Soy LaraBerenice 📈 🔍</h1>
 
----
 
 <h3>💻 🛠 Lenguajes y Herramientas:</h3>
 
