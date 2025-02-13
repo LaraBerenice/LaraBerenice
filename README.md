@@ -54,7 +54,13 @@
 <hr>
 
 <p align="center">
-    <a href="https://lara-berenice-lara-portafolio-m-02.vercel.app/" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #4CAF50; border-radius: 5px; color: white; font-weight: bold; margin: 5px;">Portafolio</a> | 
-    <a href="https://www.linkedin.com/in/lara-berenice-l-89527332b" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #0077b5; border-radius: 5px; color: white; font-weight: bold; margin: 5px;">LinkedIn</a> | 
-    <a href="mailto:lara.ledesma12345@gmail.com" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #d44638; border-radius: 5px; color: white; font-weight: bold; margin: 5px;">Correo</a>
+  <a href="https://lara-berenice-lara-portafolio-m-02.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-%234CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/lara-berenice-l-89527332b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lara.ledesma12345@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Correo-%23d44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
 </p>
