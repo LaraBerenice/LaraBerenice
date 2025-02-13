@@ -8,7 +8,6 @@
 
 <h1 align="center">🌐 ¡Hola! 👋 Soy LaraBerenice 📈 🔍</h1>
 
-
 <h3>💻 🛠 Lenguajes y Herramientas:</h3>
 
 <p align="center">
@@ -69,3 +68,5 @@
     <img src="https://img.shields.io/badge/Correo-%23d44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
 </p>
+
+---
