@@ -53,8 +53,8 @@
 
 <hr>
 
-<p>
-    📫 <a href="https://lara-berenice-lara-portafolio-m-02.vercel.app/" target="_blank">Portafolio</a> | 
-    <a href="https://www.linkedin.com/in/lara-berenice-l-89527332b" target="_blank">LinkedIn</a> | 
-    <a href="mailto:lara.ledesma12345@gmail.com" target="_blank">Correo</a>
+<p align="center">
+    <a href="https://lara-berenice-lara-portafolio-m-02.vercel.app/" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #4CAF50; border-radius: 5px; color: white; font-weight: bold; margin: 5px;">Portafolio</a> | 
+    <a href="https://www.linkedin.com/in/lara-berenice-l-89527332b" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #0077b5; border-radius: 5px; color: white; font-weight: bold; margin: 5px;">LinkedIn</a> | 
+    <a href="mailto:lara.ledesma12345@gmail.com" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #d44638; border-radius: 5px; color: white; font-weight: bold; margin: 5px;">Correo</a>
 </p>
