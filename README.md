@@ -1,5 +1,3 @@
----
-
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" alt="Imagen Principal" style="max-width: 100%; height: auto;">
 </p>
@@ -68,5 +66,3 @@
     <img src="https://img.shields.io/badge/Correo-%23d44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
 </p>
-
----
