@@ -1,12 +1,11 @@
 ---
 
-# 🌐 ¡Hola! 👋  Soy LaraBerenice 📈 🔍 
----
-
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" alt="Imagen Principal" style="max-width: 100%; height: auto;">
 </p>
+---
 
+# 🌐 ¡Hola! 👋  Soy LaraBerenice 📈 🔍 
 ---
 
 ### **💻 🛠 Lenguajes y Herramientas:**
