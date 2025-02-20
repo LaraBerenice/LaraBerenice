@@ -1,7 +1,7 @@
 <h1 align="center">🌐 ¡Hola! 👋 Soy LaraBerenice 📈 🔍</h1>
 
 <p align="center">
-    <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/xx.png" alt="Imagen Principal" style="max-width: 100%; height: auto;">
+    <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/7608c33a-1406-48a1-803c-c6fc2cbcadfc.webp" alt="Imagen Principal" style="max-width: 100%; height: auto;">
 </p>
 
 ---
