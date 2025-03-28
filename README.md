@@ -2,10 +2,10 @@
 
 🌱 **Profesional en Agronegocios en proceso de especialización en Gestión Ambiental** 🌱
 
-Licenciada en Gestión de Agroempresas, actualmente cursando la Maestría en Gestión Ambiental. Apasionada por los agronegocios, la sostenibilidad y el análisis de datos.
+Licenciada en Gestión de Agroempresas, actualmente cursando la Maestría en Gestión Ambiental. Apasionada por los agronegocios, el medioambiente y el análisis de datos.
 
 📊 Con habilidades en Python, SQL, Power BI, Tableau y QGIS, entre otras.  
-🚀 Motivada para aplicar mis conocimientos y seguir aprendiendo, con un fuerte compromiso hacia el desarrollo ambiental.
+🚀 Motivada para aplicar mis conocimientos y seguir aprendiendo, con un fuerte compromiso hacia el desarrollo sostenible.
 
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/1_KwRY6TtXQsX_d8mWQe7bKg.webp" alt="Imagen Principal" style="max-width: 100%; height: auto;">
