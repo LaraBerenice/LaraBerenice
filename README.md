@@ -1,12 +1,11 @@
 <h1 align="center">🌐 ¡Hola! 👋 Soy LaraBerenice 📈 🔍</h1>
 
-🌱 Profesional en Agronegocios en proceso de especialización en Gestión Ambiental 🌱
+🌱 **Profesional en Agronegocios en proceso de especialización en Gestión Ambiental** 🌱
 
 Licenciada en Gestión de Agroempresas, actualmente cursando la Maestría en Gestión Ambiental. Apasionada por los agronegocios, la sostenibilidad y el análisis de datos.
 
-📊 Manejo de Python, SQL, Power BI, Tableau y QGIS.
-🎯 Enfoque en sostenibilidad, estrategias de gestión ambiental.
-🚀 Motivada para aplicar mis conocimientos y aprender en nuevos desafíos, contribuyendo al desarrollo ambiental.
+📊 Con habilidades en Python, SQL, Power BI, Tableau y QGIS.  
+🚀 Motivada para aplicar mis conocimientos y seguir aprendiendo, con un fuerte compromiso hacia el desarrollo ambiental.
 
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/1_KwRY6TtXQsX_d8mWQe7bKg.webp" alt="Imagen Principal" style="max-width: 100%; height: auto;">
