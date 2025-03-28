@@ -4,7 +4,7 @@
 
 Licenciada en Gestión de Agroempresas, actualmente cursando la Maestría en Gestión Ambiental. Apasionada por los agronegocios, la sostenibilidad y el análisis de datos.
 
-📊 Con habilidades en Python, SQL, Power BI, Tableau y QGIS.  
+📊 Con habilidades en Python, SQL, Power BI, Tableau y QGIS, entre otras.  
 🚀 Motivada para aplicar mis conocimientos y seguir aprendiendo, con un fuerte compromiso hacia el desarrollo ambiental.
 
 <p align="center">
