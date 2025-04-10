@@ -1,6 +1,6 @@
 <h1 align="center">🌐 ¡Hola! 👋 Soy LaraBerenice 📈 🔍</h1>
 
-🌱 Licenciada en Gestión de Agroempresas y estudiante de Maestría en Gestión Ambiental  y Analista de datos 📊💻
+🌱 Soy Licenciada en Gestión de Agroempresas, Estudiante de Maestría en Gestión Ambiental  y Analista de datos 📊💻
 
 📊 Con habilidades en Python, SQL, Power BI, Tableau y QGIS, entre otras.  
 🚀 Motivada para aplicar mis conocimientos y seguir aprendiendo, con un fuerte compromiso hacia el desarrollo sostenible.
