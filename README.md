@@ -2,7 +2,7 @@
 
 🌱 Soy Licenciada en Gestión de Agroempresas, Estudiante de Maestría en Gestión Ambiental y Analista de datos 📊💻.<br>
 📊 Con habilidades en Python, SQL, Power BI, Tableau y QGIS, entre otras.<br>
-🚀 Motivada para aplicar mis conocimientos y seguir aprendiendo, con un fuerte compromiso hacia el desarrollo sostenible.
+🚀  con compromiso hacia el desarrollo sostenible.
 
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/1_KwRY6TtXQsX_d8mWQe7bKg.webp" alt="Imagen Principal" style="max-width: 100%; height: auto;">
