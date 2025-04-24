@@ -61,12 +61,16 @@
 
 <p align="center">
   <a href="https://lara-berenice-lara-portafolio-m-02.vercel.app/" target="_blank">
-    <img src="https://laraberenice-portafolio-streamlint-python-portafolio-zboeum.streamlit.app/" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/Portafolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://www.linkedin.com/in/lara-berenice-l-89527332b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ledesma.lara12345@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Correo-%23d44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+    <img src="https://img.shields.io/badge/Correo-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
 </p>
+
+
+
+
