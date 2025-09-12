@@ -1,8 +1,5 @@
 <h1 align="center">🌐 ¡Hola! 👋 Soy LaraBerenice 📈 🔍</h1>
 
-🌱 Soy Licenciada en Gestión de Agroempresas y actualmente curso una Maestría en Gestión Ambiental.<br>
-🌎 Me guían valores como la equidad, el trabajo justo y el cuidado del medioambiente, principios que me motivaron a especializarme en gestión ambiental. <br>
-
 <p align="center">
     <img src="https://github.com/LaraBerenice/Repo_Imagenes/blob/main/1_KwRY6TtXQsX_d8mWQe7bKg.webp" alt="Imagen Principal" style="max-width: 100%; height: auto;">
 </p>
